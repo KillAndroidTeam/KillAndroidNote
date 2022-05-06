@@ -1,4 +1,5 @@
 ## Kill Android Note
+![logo](https://github.com/KillAndroidTeam/KillAndroidNote/blob/main/res/logo.png)
 
 - android : 存放android相关的文章
 - java : 存放java相关的文章
